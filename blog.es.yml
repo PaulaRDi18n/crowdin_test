@@ -13,8 +13,10 @@ es-ES:
       title: Solicitación de Blog
     blog_tools: Herramientas para Blog
     help_center: Central de Ayuda
-    help_center_html: <a href="https://resultadosdigitais.com.br/atrair/blog/" title="Central de ayuda" target="_blank" class="page-helper"><i class="xicon-help"></i></a>
+    help_center_html: <a href="https://www.rdstation.com/blog/es/atraer/blog/" title="Ayuda" target="_blank" class="page-helper"><i class="xicon-help"></i></a>
     suggested_posts:
+      label_html: 'Término <a href="#" class="popover-info" data-container="body" data-toggle="popover" data-placement="right" data-content="Un término, preferencialmente un sustantivo, sobre el cual te gustaría escribir." data-original-title="" title=""></a>'
+      message_html: Introduce un término sobre el que deseas escribir. <br /> En unos segundos vas a recibir algunas ideas de títulos para tu blog.
       placeholder: 'Ejemplo: marketing digital'
       suggestions: Sugerencias
       title: Sugerencia de post
