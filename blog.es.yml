@@ -14,3 +14,7 @@ es-ES:
     blog_tools: Herramientas para Blog
     help_center: Central de Ayuda
     help_center_html: <a href="https://resultadosdigitais.com.br/atrair/blog/" title="Central de ayuda" target="_blank" class="page-helper"><i class="xicon-help"></i></a>
+    suggested_posts:
+      placeholder: 'Ejemplo: marketing digital'
+      suggestions: Sugerencias
+      title: Sugerencia de post
