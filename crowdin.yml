@@ -1,0 +1,13 @@
+files:
+  - source: '*.pt-BR.yml'
+    translation: /%file_name%.%locale%.%file_extension%
+    languages_mapping:
+      locale:
+        es-ES: es
+        en: en
+      language:
+        en: es
+        es-ES: en
+    translation_replace:
+      .pt-BR: 
+    
