@@ -1,0 +1,23 @@
+---
+pt-BR:
+  blog:
+    actions:
+      generate_suggestions: Gerar sugestões
+      request_blog: Solicitar Blog
+      request_blog_title: Central de Ajuda
+      see_example: Ver exemplo
+      see_example_title: Demonstração
+      wait: Aguarde
+    blog_request:
+      available_for_clients: Esta funcionalidade está disponível apenas para clientes.
+      message_html: Crie um Blog e tenha uma fonte de visitas e Leads!
+      title: Solicitação de Blog
+    blog_tools: Ferramentas para Blog
+    help_center: Central de Ajuda
+    help_center_html: <a href="https://resultadosdigitais.com.br/atrair/blog/" title="Central de Ajuda" target="_blank" class="page-helper"><i class="xicon-help"></i></a>
+    suggested_posts:
+      label_html: Termo <a href="#" class="popover-info" data-container="body" data-toggle="popover" data-placement="right" data-content="Um termo, preferencialmente substantivo, sobre o qual você gostaria de escrever." data-original-title="" title=""></a>
+      message_html: Insira um termo sobre o qual você gostaria de escrever.<br />Em alguns segundos, você receberá ideias de títulos para seu blog.
+      placeholder: 'Exemplo: marketing digital'
+      suggestions: Sugestões
+      title: Sugestão de posts

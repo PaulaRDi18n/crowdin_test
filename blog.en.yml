@@ -1,0 +1,23 @@
+---
+en:
+  blog:
+    actions:
+      generate_suggestions: Generate suggestions
+      request_blog: Request Blog
+      request_blog_title: help Center
+      see_example: see example
+      see_example_title: Demonstration
+      wait: Wait
+    blog_request:
+      available_for_clients: This feature is available for customers only.
+      message_html: Create a Blog and get a source of visits and Leads!
+      title: Blog request
+    blog_tools: Blog Tools
+    help_center: Help center
+    help_center_html: <a href="https://resultadosdigitais.com.br/atrair/blog/" title="Help Center" target="_blank" class="page-helper"><i class="xicon-help"></i></a>
+    suggested_posts:
+      label_html: Term <a href="#" class="popover-info" data-container="body" data-toggle="popover" data-placement="right" data-content="A term about which you would like to write." data-original-title="" title=""></a>
+      message_html: Enter a term about which you would like to write. <br /> In a few seconds you will receive titles of ideas for your blog.
+      placeholder: 'Example: digital marketing'
+      suggestions: Suggestions
+      title: Suggested posts
